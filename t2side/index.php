@@ -82,7 +82,6 @@
                             <li class="px-5 py-3 rounded rounded-4 d-block"><h6 class="h6">Residence:<span>Cameroon</span></h6></li>
                             <li class="px-5 py-3 rounded rounded-4 d-block"><h6 class="h6">Address:<span>Molyko, Buea</span></h6></li>
                             <li class="px-5 py-3 rounded rounded-4 d-block"><h6 class="h6">E-mail:<span><a href="mailto:danybeloved@gmail.com" class="d-inline text-decoration-none ">danybeloved@gmail.com</a></span></h6></li>
-                            <li class="px-5 py-3 rounded rounded-4 d-block"><h6 class="h6">Whatsapp:<span><a href="https://wa.me/237683243291" class="d-inline text-decoration-none "> <span class="text-success fs-5"> <i class="fa fa-brand fa-whatsapp"></i> </span> </a></span></h6></li>
                             <li class="px-5 py-3 rounded rounded-4 d-block"><h6 class="h6">Phone:<span><a href="tel:+100000000" class="d-inline text-decoration-none ">+1 XXX XXX XXXX</a></span></h6></li>
                             <li class="px-5 py-3 rounded rounded-4 d-block"><h6 class="h6">Freelance:<span>Available</span></h6></li>
                         </ul>
