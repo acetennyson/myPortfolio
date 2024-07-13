@@ -1,0 +1,332 @@
+@media (max-width: 1800px){
+	.section .intro:before, .section .intro:after {
+		top: -103%;
+	}
+}
+@media (max-width: 1500px){
+	.section .intro:before, .section .intro:after {
+    	left: -19%;
+	}
+}
+@media(max-width: 1400px){
+    .modh h2{
+		font-size: 50px;
+		line-height: 60px;
+		padding-bottom: 25px;
+	}
+	ul.detail li h6 {
+    	font-size: 16px;
+	}
+	.modperc h2 {
+		font-size: 50px;
+	}
+	.svg-img:before {
+		left: 26.7%;
+		width: 131px;
+		height: 110px;
+	}
+	.service-data svg {
+		width: 105px;
+	}
+	.service-data svg {
+		height: 130px;
+	}
+	.education h5:before {
+		left: -10.5%;
+	}
+	.resume-data .education h5:after {
+		/* height: 350px; */
+		height: 500px;
+	}
+	.education h5:after {
+		/* height: 380px; */
+		height: 580px;
+	}
+	.studies:before {
+		top: 12%;
+	}
+	.studies:before {
+		top: -12%;
+	}
+	figure.gap-img {
+		width: 81%;
+	}
+	.p-detail a {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.section.reviews:before {
+		width: 860px;
+		top: 12%;
+	}
+	.article-data img {
+		width: 100%;
+	}
+	.article-data img {
+		border-radius: 20px;
+		margin-left: -60px;
+		width: 316px !important;
+		height: auto;
+	}
+	.article-data .icon {
+		left: 66%;
+		top: 34%;
+	}
+	.article-data h6.h6 {
+		font-size: 15px;
+	}
+	.article-data p {
+		padding-bottom: 30px;
+	}
+	.section .intro:before, .section .intro:after {
+		top: -133%;
+	}
+	.intro .intro-data h1 {
+		font-size: 54px;
+	}
+	.intro-img img {
+		width: 100%;
+	}
+	.intro-img .info {
+		width: 40%;
+	}
+}
+
+@media (max-width: 1200px){
+	.modperc h2 {
+		font-size: 44px;
+	}
+	.svg-img:before {
+		left: 28.7%;
+	}
+	.education h5:before {
+		left: -16.5%;
+	}
+	.resume-data .education h5:after {
+		left: -13%;
+		/* height: 350px; */
+		height: 530px;
+	}
+	.studies:before {
+		top: -10%;
+	}
+	figure.gap-img {
+		width: 100%;
+	}
+	.p-detail a {
+		font-weight: bold;
+		font-size: 20px;
+	}
+	.section.review .cuslabel {
+		padding: 50px 0 120px;
+	}
+	.article-data img {
+		width: 420px !important;
+	}
+	.article-data .icon {
+		left: 78%;
+		top: 44%;
+	}
+	.section .intro:before, .section .intro:after {
+		top: -80%;
+		left: -32%;
+	}
+	.intro-img .info {
+		width: 48%;
+		left: 6%;
+	}
+}
+
+@media (max-width: 993px){
+	.section .intro:before, .section .intro:after {
+		top: -35%;
+		left: -46%;
+	}
+	.modperc h2 {
+		font-size: 60px;
+	}
+	.svg-img:before {
+		height: 104px;
+		width: 150px;
+		left: 22.7%;
+		top: 6%;
+	}
+	.service-data svg {
+		height: 120px;
+	}
+	.education h5:before {
+		left: -9.5%;
+	}
+	.resume-data .education h5:after {
+		left: -8%;
+		/* height: 289px; */
+		height: 490px;
+	}
+	.studies:before {
+		top: -14%;
+	}
+	.section.reviews:before {
+		top: 0;
+	}
+	.section.reviews:before {
+		width: 100%;
+		height: 100%;
+		border-radius: 0;
+	}
+	.section.reviews .cuslabel {
+		padding: 0;
+		padding-bottom: 50px;
+	}
+	.section.reviews .cuslabel {
+		text-align: center;
+		padding-bottom: 30px;
+	}
+	.section.reviews:after {
+		top: 0;
+	}
+	.article-data img {
+		width: 645px !important;
+	}
+	.section .intro:before, .section .intro:after {
+		top: -35%;
+		left: -46%;
+	}
+	.intro .intro-data h1 {
+		font-size: 50px;
+		line-height: 48px;
+	}
+	.intro-img .info {
+		width: 26%;
+		left: -4%;
+		padding: 25px;
+	}
+}
+
+@media(max-width: 768px){
+    .modh h2{
+        width: 100%;
+        font-size: 50px;
+        padding-bottom: 30px;
+    }
+    .modh p{
+        padding-bottom: 0;
+        padding-top: 10px;
+    }
+    .modh h2{
+		width: 100%;
+		font-size: 50px;
+		padding-bottom: 30px;
+	}
+    .work-experience-two .modh h2 {
+        font-size: 38px;
+    }
+	.education h5:before {
+		left: -13.5%;
+	}
+	.resume-data .education h5:after {
+		left: -11%;
+		/* height: 300px; */
+		height: 460px;
+	}
+	.studies:before {
+		top: -12%;
+	}
+	.article-data img {
+		width: 445px !important;
+	}
+	.section .intro:before, .section .intro:after {
+		top: -48%;
+		left: -52%;
+	}
+	.intro-data h1 {
+		font-size: 60px;
+	}
+	.intro-img .info {
+		width: 35%;
+	}
+}
+
+@media(max-width: 600px){
+	.modh h2 {
+	    font-size: 38px;
+	    line-height: 48px;
+	}
+}
+
+@media (max-width: 576px){
+	.article-data img {
+		width: 470px !important;
+	}
+	.intro-img .info {
+		width: 35%;
+		left: 10%;
+	}
+}
+
+@media (max-width: 500px){
+	.article-data img {
+		width: 100% !important;
+	}
+}
+
+@media(max-width: 480px){
+    .modh h2 {
+	    font-size: 40px;
+	    line-height: 50px;
+	}
+	ul.detail li {
+		padding: 16px 20px;
+	}
+	.intro-img .info{
+		width: 46%;
+	}
+}
+
+@media(max-width: 450px){
+	.work-experience-two .modh h2 {
+    	font-size: 30px;
+	}
+	.section .intro:before, .section .intro:after {
+		top: -70%;
+		left: -116%;
+	}
+}
+
+@media (max-width: 410px){
+	ul.detail li h6 {
+		font-size: 14px;
+	}
+	.ls-7{letter-spacing: 0.001rem !important;}
+	.intro-img .info {
+		width: 49%;
+		top: 54%;
+	}
+}
+
+@media (max-width: 375px){
+	.article-data img {
+		width: 300px !important;
+	}
+	.article-data img {
+		margin-left: -45px;
+	}
+}
+
+@media (max-width: 300px){
+	.article-data img {
+		width: 100% !important;
+	}
+	.article-data img {
+		margin-left: -45px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
