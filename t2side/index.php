@@ -78,11 +78,12 @@
 
                     <div class="my-5">
                         <ul class="my-3 detail nopadd">
-                            <li class="px-5 py-3 rounded rounded-4 d-block"><h6 class="h6">Age:<span><?php echo date("Y")-2001;?></span></h6></li>
+                            <li class="px-5 py-3 rounded rounded-4 d-block"><h6 class="h6">Age:<span><?php echo date("Y")-2000;?></span></h6></li>
                             <li class="px-5 py-3 rounded rounded-4 d-block"><h6 class="h6">Residence:<span>Cameroon</span></h6></li>
                             <li class="px-5 py-3 rounded rounded-4 d-block"><h6 class="h6">Address:<span>Molyko, Buea</span></h6></li>
-                            <li class="px-5 py-3 rounded rounded-4 d-block"><h6 class="h6">E-mail:<span><a href="mailto:adodanieln@gmail.com" class="d-inline text-decoration-none ">adodanieln@gmail.com</a></span></h6></li>
-                            <li class="px-5 py-3 rounded rounded-4 d-block"><h6 class="h6">Phone:<span><a href="tel:+237683243291" class="d-inline text-decoration-none ">+237 683 243 291</a></span></h6></li>
+                            <li class="px-5 py-3 rounded rounded-4 d-block"><h6 class="h6">E-mail:<span><a href="mailto:danybeloved@gmail.com" class="d-inline text-decoration-none ">danybeloved@gmail.com</a></span></h6></li>
+                            <li class="px-5 py-3 rounded rounded-4 d-block"><h6 class="h6">Whatsapp:<span><a href="https://wa.me/237683243291" class="d-inline text-decoration-none "> <span class="text-success fs-5"> <i class="fa fa-brand fa-whatsapp"></i> </span> </a></span></h6></li>
+                            <li class="px-5 py-3 rounded rounded-4 d-block"><h6 class="h6">Phone:<span><a href="tel:+100000000" class="d-inline text-decoration-none ">+1 XXX XXX XXXX</a></span></h6></li>
                             <li class="px-5 py-3 rounded rounded-4 d-block"><h6 class="h6">Freelance:<span>Available</span></h6></li>
                         </ul>
                     </div>
@@ -807,7 +808,7 @@ life cycle. Strong problem-solving abilities and a passion for staying updated w
                                     <div class="flex-grow-1 flex">
                                         <div class="my-3 my-md-1 my-lg-4 text-center">
                                             <h6 class="h6 fs-5 fw-bold">Email Address</h6>
-                                            <a class="magic-hover translate3d" href="mailto:adodanieln@gmail.com">adodanieln@gmail.com</a>
+                                            <a class="magic-hover translate3d" href="mailto:danybeloved@gmail.com">danybeloved@gmail.com</a>
                                         </div>
                                     </div>
                                 </div>
@@ -821,7 +822,7 @@ life cycle. Strong problem-solving abilities and a passion for staying updated w
                                     <div class="flex-grow-1 flex">
                                         <div class="my-3 my-md-1 my-lg-4 text-center">
                                             <h6 class="h6 fs-5 fw-bold">Phone No</h6>
-                                            <a class="magic-hover translate3d text-decoration-none" href="tel:+237683243291">+237 6 83 24 32 91</a>
+                                            <a class="magic-hover translate3d text-decoration-none" href="tel:+10000000">+1 X XX XX XX XX</a>
                                         </div>
                                     </div>
                                 </div>
